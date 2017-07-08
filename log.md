@@ -20,3 +20,11 @@ Also, I wanted to solve algorithmic problem.
 **Link to work:** 
 1. [Harvard's Scalability Video](https://www.youtube.com/watch?v=-W9F__D3oY4)
 2. [HackerRank Birthday Chocolate Problem](https://www.hackerrank.com/challenges/the-birthday-bar)
+
+### Day 2: July 8, 2017
+
+**Today's Progress**: Continued with scalability related points, learnt about various level of clustering, caching in web application in order to handle more requests on the server, Solved hackerrank practice problems. 
+
+**Link to work:** 
+1. [Scalable Architectures](http://tutorials.jenkov.com/software-architecture/scalable-architectures.html)
+2. [HackerRank Migratory Birds Problem](https://www.hackerrank.com/challenges/migratory-birds)
