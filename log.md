@@ -28,3 +28,12 @@ Also, I wanted to solve algorithmic problem.
 **Link to work:** 
 1. [Scalable Architectures](http://tutorials.jenkov.com/software-architecture/scalable-architectures.html)
 2. [HackerRank Migratory Birds Problem](https://www.hackerrank.com/challenges/migratory-birds)
+
+### Day 3: July 11, 2017
+
+**Today's Progress**: Solved hackerrank practice problems. 
+
+### Day 3: July 12, 2017
+
+**Today's Progress**: Solved hackerrank practice problems and revised core concepts of JAVA and spring. 
+
