@@ -33,7 +33,26 @@ Also, I wanted to solve algorithmic problem.
 
 **Today's Progress**: Solved hackerrank practice problems. 
 
-### Day 3: July 12, 2017
+### Day 4: July 12, 2017
 
 **Today's Progress**: Solved hackerrank practice problems and revised core concepts of JAVA and spring. 
 
+### Day 5: July 13, 2017
+
+**Today's Progress**: revised core concepts of JAVA. 
+
+### Day 6: July 14, 2017
+
+**Today's Progress**: Algorithms.
+
+### Day 7: July 18, 2017
+
+**Today's Progress**: Algorithms and JAVA Core revision.
+
+### Day 8: July 19, 2017
+
+**Today's Progress**: Data structures revision.
+
+### Day 9: July 26, 2017
+
+**Today's Progress**: Java core learning.
