@@ -21,3 +21,13 @@
 1. [Tweet](https://twitter.com/vdharm/status/1085687785032421376)
 2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-1-what-is-machine-learning?ex=12)
 3. [www.vdharam.com] (https://vdharam.com)
+
+### Day 2: January 27, 2019
+
+**Today's Progress**: Studied assessment of machine learning models.
+
+**Thoughts:** Finishing and understanding more about machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1089675320062550018)
+2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-2-performance-measures?ex=3)
