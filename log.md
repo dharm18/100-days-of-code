@@ -31,3 +31,13 @@
 **Link to work:** 
 1. [Tweet](https://twitter.com/vdharm/status/1089675320062550018)
 2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-2-performance-measures?ex=3)
+
+### Day 3: January 28, 2019
+
+**Today's Progress**: Further dived into performance measures of machine learning models i.e. n-fold cross-validation, splitting the dataset etc.
+
+**Thoughts:** Finishing and understanding more about machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1090011993254309891)
+2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-2-performance-measures?ex=11)
