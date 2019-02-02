@@ -64,14 +64,25 @@
 
 
 
-### Day 7: January 28, 2019
+### Day 7: Fabruary 01, 2019
 
 **Today's Progress**: Studied Simple & Multiple linear regression in R and coded on Datacamp platform.
 
-**Thoughts:** Finishing and understanding more about machine learning.
+**Thoughts:** Understanding more about machine learning.
 
 **Link to work:** 
 1. [Tweet](https://twitter.com/vdharm/status/1091489192444641280)
+2. [Introduction to Machine Learning in R] (https://t.co/DgjIXyisdM)
+
+
+### Day 8: Fabruary 02, 2019
+
+**Today's Progress**: Studied Non-parametric regression and parametric regression in R.
+
+**Thoughts:** Understanding more about machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1091810272149495814)
 2. [Introduction to Machine Learning in R] (https://t.co/DgjIXyisdM)
 
 
