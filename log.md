@@ -41,3 +41,38 @@
 **Link to work:** 
 1. [Tweet](https://twitter.com/vdharm/status/1090011993254309891)
 2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-2-performance-measures?ex=11)
+
+### Day 4: January 29, 2019
+
+**Today's Progress**: Further dived into performance measures of machine learning models i.e. n-fold cross-validation, splitting the dataset etc.
+
+**Thoughts:** understanding more about machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1090396524310351874)
+2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-3-classification?ex=3)
+
+### Day 5 & 6: January 30, 2019 - January 31, 2019
+
+**Today's Progress**: Another day, utilised a few hours in learning. Instance-based learning like KNN, ROC curve is another performance measure of classifiers and coded solution in R on DataCamp platform. 
+
+**Thoughts:** Understanding more about machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1091112773881352193)
+2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-3-classification?ex=18)
+
+
+
+### Day 7: January 28, 2019
+
+**Today's Progress**: Studied Simple & Multiple linear regression in R and coded on Datacamp platform.
+
+**Thoughts:** Finishing and understanding more about machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1091489192444641280)
+2. [Introduction to Machine Learning in R] (https://t.co/DgjIXyisdM)
+
+
+
