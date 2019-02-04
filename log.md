@@ -85,5 +85,16 @@
 1. [Tweet](https://twitter.com/vdharm/status/1091810272149495814)
 2. [Introduction to Machine Learning in R] (https://t.co/DgjIXyisdM)
 
+### Day 9: Fabruary 03, 2019
+
+**Today's Progress**: Studied clustering with k means, performance and scaling issues in R.
+
+**Thoughts:** Understanding more about machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1092226143514693633)
+2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-5-clustering?ex=9)
+
+
 
 
