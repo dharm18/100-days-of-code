@@ -95,6 +95,15 @@
 1. [Tweet](https://twitter.com/vdharm/status/1092226143514693633)
 2. [Introduction to Machine Learning in R] (https://campus.datacamp.com/courses/introduction-to-machine-learning-with-r/chapter-5-clustering?ex=9)
 
+### Day 10: Fabruary 04, 2019
+
+**Today's Progress**: horizontal clustering with single, complete linkage, and its comparison with k-means using dunn's index.
+
+**Thoughts:** Finished introduction to machine learning.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1092507184762630144)
+2. [Introduction to Machine Learning in R] (https://t.co/P1afv11ZTF)
 
 
 
