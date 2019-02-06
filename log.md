@@ -105,5 +105,15 @@
 1. [Tweet](https://twitter.com/vdharm/status/1092507184762630144)
 2. [Introduction to Machine Learning in R] (https://t.co/P1afv11ZTF)
 
+### Day 11: Fabruary 05, 2019
+
+**Today's Progress**: completing intro to R course on DataCamp.
+
+**Thoughts:** Finished introduction to R.
+
+**Link to work:** 
+1. [Tweet](https://twitter.com/vdharm/status/1092911675773206530)
+2. [Introduction to Machine Learning in R] (https://t.co/EOmy8YIKpu)
+
 
 
