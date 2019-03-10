@@ -202,3 +202,136 @@ further made progress on supervised learning with scikit-learn course. understan
 1. [Tweet](https://twitter.com/vdharm/status/1098363770844446732)
 2. [Course Link] (https://t.co/Dt3Jh3FFag)
 
+### Day 23: Fabruary 21, 2019
+
+**Today's Progress**: LeetCode code challenge practise & supervised machine learning using python.
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/competitive-programming-contest/commit/98d811e1667ca3dc5a842bb0c24ea710336585a6)
+2. [Github Link] (https://github.com/dharm18/100daysofcode-mlproject/commit/c089d582eb80732cd4bc443d3fcfae66166e075a)
+
+### Day 24: Fabruary 22, 2019
+
+**Today's Progress**: supervised machine learning using python.
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/100daysofcode-mlproject/commit/c089d582eb80732cd4bc443d3fcfae66166e075a)
+
+### Day 25: Fabruary 23, 2019
+
+**Today's Progress**: updated my portfolio site
+
+**Link to work:**
+1. [Portfolio Link] (http://vdharam.com)
+
+### Day 26: Fabruary 24, 2019
+
+**Today's Progress**: updated my portfolio site
+
+**Link to work:**
+1. [Portfolio Link] (http://vdharam.com)
+
+### Day 27: Fabruary 25, 2019
+
+**Today's Progress**: updated my portfolio site
+
+**Link to work:**
+1. [Portfolio Link] (http://vdharam.com)
+
+### Day 28: Fabruary 26, 2019
+
+**Today's Progress**: updated my portfolio site & datacamp learning.
+
+**Link to work:**
+1. [Portfolio Link] (http://vdharam.com)
+2. [Course coding]
+
+### Day 29: Fabruary 27, 2019
+
+**Today's Progress**: Did machine learning coding using DataCamp
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/100daysofcode-mlproject/commits/master)
+
+### Day 30: Fabruary 28, 2019
+
+**Today's Progress**: Updated readme content on portfolio site and advanced data mining algorithms in r.
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/dharm18.github.io/commits/master)
+2. [Github link] (https://github.com/dharm18/advanced-data-mining-tutorials)
+
+### Day 31: March 1, 2019
+
+**Today's Progress**: Tried Competitive coding competition
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/competitive-programming-contest)
+
+### Day 32: March 2, 2019
+
+**Today's Progress**: Competitive coding competition and updated portfolio content.
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/competitive-programming-contest)
+2. [Github Link] (https://github.com/dharm18/dharm18.github.io/commits/master)
+
+### Day 33: March 3, 2019
+
+**Today's Progress**: Competitive coding competition and machine-learning-with-experts-school-budget course on datacamp.
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/competitive-programming-contest)
+2. [Github Link] (https://github.com/dharm18/100daysofcode-mlproject/commit/e47b1a0531223b265bd2e463080648644e5512f8)
+
+### Day 34: March 4, 2019
+
+**Today's Progress**: machine-learning-with-experts-school-budget course on datacamp.
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/100daysofcode-mlproject/commit/68d6f8c9d5c37ddc0daacd6bc62d1583716f71d4)
+2. [Github Link] (https://github.com/dharm18/100daysofcode-mlproject/commit/7d164cd3d03f2e001413677cdd5755499f58f135)
+
+### Day 35: March 5, 2019
+
+**Today's Progress**: advanced data mining algorithms in r - Ensemble model.
+
+**Link to work:**
+1. [Github link] (https://github.com/dharm18/advanced-data-mining-tutorials)
+
+### Day 36: March 6, 2019
+
+**Today's Progress**: Updated portfolio site and started Joining SQL course on DataCamp.
+
+**Link to work:**
+1. [Github Link] (https://github.com/dharm18/dharm18.github.io/commits/master)
+2. [Github link] (https://github.com/dharm18/100daysofcode-mlproject/commits/master)
+
+### Day 37: March 7, 2019
+
+**Today's Progress**: continued Joining SQL course on DataCamp.
+
+**Link to work:**
+1. [Github link] (https://github.com/dharm18/100daysofcode-mlproject/commits/master)
+
+### Day 38: March 8, 2019
+
+**Today's Progress**: continued Joining SQL course on DataCamp.
+
+**Link to work:**
+1. [Github link] (https://github.com/dharm18/100daysofcode-mlproject/commits/master)
+
+### Day 39: March 9, 2019
+
+**Today's Progress**: continued Joining SQL course on DataCamp.
+
+**Link to work:**
+1. [Github link] (https://github.com/dharm18/100daysofcode-mlproject/commits/master)
+
+### Day 40: March 10, 2019
+
+**Today's Progress**: Finished the course on Joining SQL from DataCamp.
+
+**Link to work:**
+1. [Github link] (https://github.com/dharm18/100daysofcode-mlproject/commits/master)
+2. [Course Link] (https://campus.datacamp.com/courses/joining-data-in-postgresql/subqueries?ex=1)
